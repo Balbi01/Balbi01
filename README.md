@@ -1,8 +1,6 @@
 <h1 align="center">Hello there👋, I'm David</h1>
 <h3 align="center">A passionate software developer from Mexico:)</h3>
 
-- 🔭 I’m currently working on [ERP-LARAVEL](https://github.com/Balbi01/erp_laravel_ver1)
-
 - 🌱 I’m currently learning **Laravel 11, TailwindCSS, Vue and ReactJS**
 
 - 👨‍💻 All of my projects are available at ['pending']('pending')
